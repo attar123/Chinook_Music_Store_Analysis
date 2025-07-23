@@ -83,13 +83,3 @@ The **Chinook** database contains detailed records of artists, albums, tracks, c
 
 ---
 
-## 🛠 Tools & Technologies
-
-- **SQL (PostgreSQL)**  
-- **Chinook Database**  
-- **Data Visualization (Optional: Tableau/Power BI)**
-
----
-
-## 📁 Project Structure (Optional)
-
