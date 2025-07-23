@@ -15,16 +15,13 @@ To analyze music record sales data, identify key trends, and provide strategic r
 5. Product Affinity and Bundling: Identified popular genres/artists for effective cross-selling and bundling strategies.
 
 ## Strategic Recommendations to Drive Growth:
-•Targeted Marketing: Focus marketing efforts on high-performing genres (e.g., Rock, Alternative & Latin) and top revenue-generating countries. Promote top genres and artists extensively in these regions.
-
-•Customer Loyalty and Personalization: Implement loyalty programs to reward and retain long-term customers. Utilize data-driven insights for targeted marketing and personalized promotions based on customer preferences.
-
-•Strategic Cross-Selling: Analyzed purchase patterns to reveal genre and artist affinities, enabling effective cross-selling for increased revenue.
-
-•Churn Mitigation: Maintain customer churn rate as low as possible through higher customer retention efforts.
+•Targeted Marketing: Focus marketing efforts on high-performing genres (e.g., Rock, Alternative & Latin) and top revenue-generating countries. Promote top genres and artists extensively in these regions.<br/>
+•Customer Loyalty and Personalization: Implement loyalty programs to reward and retain long-term customers. Utilize data-driven insights for targeted marketing and personalized promotions based on customer preferences.<br/>
+•Strategic Cross-Selling: Analyzed purchase patterns to reveal genre and artist affinities, enabling effective cross-selling for increased revenue.<br/>
+•Churn Mitigation: Maintain customer churn rate as low as possible through higher customer retention efforts.<br/>
 
 ## Conclusion
-1. Analyzed sales data from 11 interrelated tables covering 53 cities, 24 countries, and 25 music genres using SQL.
-2. Identified top-performing genres like Rock and Alternative Punk in the USA and suggested region-specific promotions.
-3. Used purchase patterns to recommend cross-selling strategies, boosting average order value and revenue potential.
-4. Proposed retention campaigns for high-value customers to reduce churn and maximize lifetime value.
+1. Analyzed sales data from 11 interrelated tables covering 53 cities, 24 countries, and 25 music genres using SQL.<br/>
+2. Identified top-performing genres like Rock and Alternative Punk in the USA and suggested region-specific promotions.<br/>
+3. Used purchase patterns to recommend cross-selling strategies, boosting average order value and revenue potential.<br/>
+4. Proposed retention campaigns for high-value customers to reduce churn and maximize lifetime value.<br/>
