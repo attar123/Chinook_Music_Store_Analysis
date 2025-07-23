@@ -8,11 +8,11 @@ This project focuses on designing and querying a relational database to manage a
 To analyze music record sales data, identify key trends, and provide strategic recommendations for optimizing profitability and market engagement.
 
 ## Key Focus Areas and Discoveries:
-  1. Revenue and Sales Trends: Analyzed lifetime sales, monthly/seasonal patterns, noting high winter sales and steady growth. 
-  2. Top-Selling Content and Genres: Rock dominates globally. Identified strong potential for Hip-Hop, Punk, Pop, and top revenue-generating artists/albums. 
-  3. Geographical Sales Insights: Identified top-performing sales regions, alongside emerging markets showing high average spending and untapped potential.
-  4. Customer Behavior and Segmentation: Analyzed customer spending patterns, identifying high-value customers who benefit from tailored engagement, and significant opportunities for growth.
-  5. Product Affinity and Bundling: Identified popular genres/artists for effective cross-selling and bundling strategies.
+1. Revenue and Sales Trends: Analyzed lifetime sales, monthly/seasonal patterns, noting high winter sales and steady growth. 
+2. Top-Selling Content and Genres: Rock dominates globally. Identified strong potential for Hip-Hop, Punk, Pop, and top revenue-generating artists/albums. 
+3. Geographical Sales Insights: Identified top-performing sales regions, alongside emerging markets showing high average spending and untapped potential.
+4. Customer Behavior and Segmentation: Analyzed customer spending patterns, identifying high-value customers who benefit from tailored engagement, and significant opportunities for growth.
+5. Product Affinity and Bundling: Identified popular genres/artists for effective cross-selling and bundling strategies.
 
 ## Strategic Recommendations to Drive Growth:
   • Targeted Marketing: Focus marketing efforts on high-performing genres (e.g., Rock, Alternative & Latin) and top revenue-generating countries. Promote top genres and artists extensively in these regions.<br/>
@@ -21,7 +21,7 @@ To analyze music record sales data, identify key trends, and provide strategic r
   • Churn Mitigation: Maintain customer churn rate as low as possible through higher customer retention efforts.<br/>
 
 ## Conclusion
-  1. Analyzed sales data from 11 interrelated tables covering 53 cities, 24 countries, and 25 music genres using SQL.<br/>
-  2. Identified top-performing genres like Rock and Alternative Punk in the USA and suggested region-specific promotions.<br/>
-  3. Used purchase patterns to recommend cross-selling strategies, boosting average order value and revenue potential.<br/>
-  4. Proposed retention campaigns for high-value customers to reduce churn and maximize lifetime value.<br/>
+1. Analyzed sales data from 11 interrelated tables covering 53 cities, 24 countries, and 25 music genres using SQL.<br/>
+2. Identified top-performing genres like Rock and Alternative Punk in the USA and suggested region-specific promotions.<br/>
+3. Used purchase patterns to recommend cross-selling strategies, boosting average order value and revenue potential.<br/>
+4. Proposed retention campaigns for high-value customers to reduce churn and maximize lifetime value.<br/>
