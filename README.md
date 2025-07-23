@@ -78,8 +78,6 @@ By leveraging advanced SQL queries and analytical thinking, the project explores
 
 ---
 
----
-
 ## Conclusion
 
 The Chinook Music Store project demonstrates how structured relational data can be transformed into valuable insights through advanced querying and analysis. Recommendations are designed to optimize marketing efforts, boost profitability, and improve customer experience by aligning content and offerings with user demand.
