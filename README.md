@@ -88,6 +88,13 @@ The Chinook Music Store project demonstrates how structured relational data can 
 
 ## Contact
 
+For further information, collaboration opportunities, or questions, feel free to connect:
+
+**Name**: Mudassir Attar<br>
+**Email**: mhsattar313@gmail.com <br>
+**LinkedIn**: [linkedin.com/in/mudassir-attar](https://www.linkedin.com/in/mudassir-attar/)  <br>
+**GitHub**: [github.com/attar123](https://github.com/attar123)<br>
+
 
 
 ---
